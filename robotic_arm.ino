@@ -1,13 +1,4 @@
-/* 
-  Rui Santos
-  Complete project details at https://RandomNerdTutorials.com/esp32-web-server-websocket-sliders/
-  
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files.
-  
-  The above copyright notice and this permission notice shall be included in all
-  copies or substantial portions of the Software.
-*/
+
 #include <Servo.h>
 #include <Arduino.h>
 #include <WiFi.h>
@@ -17,8 +8,8 @@
 #include <Arduino_JSON.h>
 
 // Replace with your network credentials
-const char* ssid = "him";
-const char* password = "himanshu";
+const char* ssid = "YOUR_SSID";
+const char* password = "YOUR_PASSWORD";
 
 Servo left;
 Servo right;
