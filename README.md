@@ -15,7 +15,8 @@ Based on these sliders, the robotic arm can be controlled.
 ## Camerafeed 
 ![Camerafeed](./camerafeed.jpg) 
 
-## Working 
+## Working
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/p_n_dThcRTc/0.jpg)](https://www.youtube.com/watch?v=p_n_dThcRTc)
 
 ## Contributions
 
