@@ -1,21 +1,21 @@
-# robotic-arm-new # 
-![Banner](./banner.jpg)
+# robotic-arm # 
+<img src="./banner.jpg" width=50% height=25%>
 
 <p>
 A robotic arm with 4 dof is controlled remotely with the help of esp32 webserver which is hosted locally.  
 </p>
 
 ## What it does
-We can control the robotic arm using the sliders and can be used for operations like pick and place. 
+We can control the robotic arm using the sliders and can be used for operations like pick and place. I have also integrated an Rpi with Rpi camera by which we can see the live feed of the camera as well.  
 
-## UI
-![Slider](./slider.jpg)
-## Usage
+## Webserver UI
+Based on these sliders, the robotic arm can be controlled. 
+![Slider](./sliders.jpg)
 
-- Plug in your NodeMCU and connect the Oled display
-- The graph will be displayed and update on regular interval of time.
+## Camerafeed 
+![Camerafeed](./camerafeed.jpg) 
 
-![Images](./hardware.png)
+## Working 
 
 ## Contributions
 
