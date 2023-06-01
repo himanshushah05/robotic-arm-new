@@ -6,17 +6,10 @@ A robotic arm with 4 dof is controlled remotely with the help of esp32 webserver
 </p>
 
 ## What it does
+We can control the robotic arm using the sliders and can be used for operations like pick and place. 
 
-![What it does?](./whatitdoes.png)
-
-## Setup
-
-- Go to repo Settings/Secrets and add a new repository secret with name as MTQT_BROKER_PASSWORD and value as key.
-- Now edit the .yaml files in .github/workflows with your details of mqqt broker for each topic i.e Issue Open , Pull Requet Open and Pull Request Closed.
-- Connect your Oled display to NodeMCU or any WiFi module compatible with Arduino.
-- Change the SSID, Password, MQTT user ID and key as per your account.
-- Upload the <code> github_actions_graph.ino </code> on your board
-
+## UI
+![Slider](./slider.jpg)
 ## Usage
 
 - Plug in your NodeMCU and connect the Oled display
