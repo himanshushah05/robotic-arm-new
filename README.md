@@ -1,5 +1,5 @@
 # robotic-arm-new # 
-![Banner](./banner.png)
+![Banner](./banner.jpg)
 
 <p>
 A robotic arm with 4 dof is controlled remotely with the help of esp32 webserver which is hosted locally.  
